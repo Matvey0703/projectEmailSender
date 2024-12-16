@@ -1,0 +1,156 @@
+2024-12-14 20:58:03 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-14 20:58:03 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 02:32:29 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 02:32:29 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 14:29:26 INFO  [main] FileReader:80 - Email добавлен: bosharik@rambler.ru
+2024-12-15 14:29:26 INFO  [main] Main:36 - Список email-адресов:
+2024-12-15 14:29:26 INFO  [main] Main:39 - Email: bosharik@rambler.ru, Name: C Б
+2024-12-15 14:29:26 INFO  [main] Main:50 - Текст сообщения:
+2024-12-15 14:29:26 INFO  [main] Main:56 - Открытие файлов для редактирования...
+2024-12-15 14:29:26 INFO  [main] FileReader:45 - Файл успешно открыт: src/main/resources/emails.txt
+2024-12-15 14:29:26 INFO  [main] FileReader:45 - Файл успешно открыт: src/main/resources/message.txt
+2024-12-15 15:24:24 INFO  [JavaFX Application Thread] EmailApp:69 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 15:24:24 INFO  [JavaFX Application Thread] EmailApp:69 - Файл загружен: src/main/resources/message.txt
+2024-12-15 15:51:08 INFO  [JavaFX Application Thread] EmailApp:69 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 15:51:08 INFO  [JavaFX Application Thread] EmailApp:69 - Файл загружен: src/main/resources/message.txt
+2024-12-15 16:17:14 INFO  [JavaFX Application Thread] EmailApp:69 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 16:17:14 INFO  [JavaFX Application Thread] EmailApp:69 - Файл загружен: src/main/resources/message.txt
+2024-12-15 16:43:51 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 16:43:51 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 17:00:12 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 17:00:12 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 17:40:01 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 17:40:01 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 17:46:25 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 17:46:25 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 18:29:52 INFO  [JavaFX Application Thread] EmailApp:78 - ���� ��������: src/main/resources/emails.txt
+2024-12-15 18:29:52 INFO  [JavaFX Application Thread] EmailApp:78 - ���� ��������: src/main/resources/message.txt
+2024-12-15 19:26:17 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 19:26:17 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 19:27:02 INFO  [JavaFX Application Thread] EmailSender:68 - Письмо успешно отправлено на: matveystep0703@mail.ru
+2024-12-15 19:27:08 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 19:44:39 INFO  [JavaFX Application Thread] EmailApp:78 - ���� ��������: src/main/resources/emails.txt
+2024-12-15 19:44:39 INFO  [JavaFX Application Thread] EmailApp:78 - ���� ��������: src/main/resources/message.txt
+2024-12-15 19:47:32 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 19:47:32 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 19:52:03 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 19:52:03 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 19:58:55 INFO  [JavaFX Application Thread] EmailApp:94 - Файл сохранен: src/main/resources/emails.txt
+2024-12-15 19:59:21 INFO  [JavaFX Application Thread] EmailSender:68 - Письмо успешно отправлено на: matveystep0703@mail.ru
+2024-12-15 20:05:22 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 20:08:14 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 20:08:14 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 20:14:47 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 20:14:47 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 20:16:52 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 20:16:52 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 20:17:11 INFO  [JavaFX Application Thread] EmailApp:94 - Файл сохранен: src/main/resources/emails.txt
+2024-12-15 20:17:16 WARN  [JavaFX Application Thread] EmailSender:70 - Неверный формат строки с email: matveystep0703@mail.ru
+2024-12-15 20:17:26 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 20:17:45 INFO  [JavaFX Application Thread] EmailApp:94 - Файл сохранен: src/main/resources/emails.txt
+2024-12-15 20:18:57 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 20:18:57 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 20:19:02 INFO  [JavaFX Application Thread] EmailApp:94 - Файл сохранен: src/main/resources/emails.txt
+2024-12-15 20:19:04 WARN  [JavaFX Application Thread] EmailSender:70 - Неверный формат строки с email: 
+2024-12-15 20:19:06 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 20:19:50 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 20:19:50 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 20:21:57 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 20:21:57 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 20:22:02 WARN  [JavaFX Application Thread] EmailSender:70 - Неверный формат строки с email: 
+2024-12-15 20:22:05 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 20:22:13 WARN  [JavaFX Application Thread] EmailSender:70 - Неверный формат строки с email: 
+2024-12-15 20:22:16 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 20:22:38 ERROR [JavaFX Application Thread] EmailSender:74 - Ошибка при отправке письма
+com.sun.mail.util.MailConnectException: Couldn't connect to host, port: smtp.gmail.com, 587; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gmail.com
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:2209)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:740)
+	at javax.mail.Service.connect(Service.java:388)
+	at javax.mail.Service.connect(Service.java:246)
+	at javax.mail.Service.connect(Service.java:195)
+	at javax.mail.Transport.send0(Transport.java:254)
+	at javax.mail.Transport.send(Transport.java:124)
+	at org.emails.EmailSender.sendEmails(EmailSender.java:67)
+	at org.emails.EmailApp.sendEmails(EmailApp.java:116)
+	at org.emails.EmailApp.lambda$start$2(EmailApp.java:48)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Node.fireEvent(Node.java:8792)
+	at javafx.controls/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208)
+	at javafx.controls/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Scene.java:3897)
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Scene.java:1878)
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:423)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449)
+	at javafx.graphics/com.sun.glass.ui.View.handleMouseEvent(View.java:551)
+	at javafx.graphics/com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.UnknownHostException: smtp.gmail.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:583)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:359)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:238)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:2175)
+	... 54 more
+2024-12-15 20:22:43 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 20:27:29 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 20:27:29 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 20:28:16 WARN  [JavaFX Application Thread] EmailSender:70 - Неверный формат строки с email: matvey@djhj,tq/cob, Надо исправлять
+2024-12-15 20:28:18 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 20:28:47 WARN  [JavaFX Application Thread] EmailSender:70 - Неверный формат строки с email: matvey@djhj,tq/cob, Надо исправлять
+2024-12-15 20:28:52 INFO  [JavaFX Application Thread] EmailApp:118 - Письма успешно отправлены.
+2024-12-15 20:33:02 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-15 20:33:02 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-15 20:33:09 INFO  [JavaFX Application Thread] EmailApp:94 - Файл сохранен: src/main/resources/message.txt
+2024-12-15 20:33:12 INFO  [JavaFX Application Thread] EmailApp:94 - Файл сохранен: src/main/resources/emails.txt
+2024-12-15 20:33:17 WARN  [JavaFX Application Thread] EmailApp:111 - Не указаны email адреса или текст сообщения.
+2024-12-16 13:52:08 INFO  [JavaFX Application Thread] EmailApp:78 - ���� ��������: src/main/resources/emails.txt
+2024-12-16 13:52:08 INFO  [JavaFX Application Thread] EmailApp:78 - ���� ��������: src/main/resources/message.txt
+2024-12-16 15:47:09 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-16 15:47:09 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-16 15:48:19 INFO  [JavaFX Application Thread] EmailSender:68 - Письмо успешно отправлено на: andreybocharov228@mail.ru
+2024-12-16 15:48:22 INFO  [JavaFX Application Thread] EmailApp:118 - Письма отправлены.
+2024-12-16 15:49:14 INFO  [JavaFX Application Thread] EmailSender:68 - Письмо успешно отправлено на: andreybocharov228@mail.ru
+2024-12-16 15:49:18 INFO  [JavaFX Application Thread] EmailApp:118 - Письма отправлены.
+2024-12-16 19:07:07 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/emails.txt
+2024-12-16 19:07:07 INFO  [JavaFX Application Thread] EmailApp:78 - Файл загружен: src/main/resources/message.txt
+2024-12-16 19:07:11 INFO  [JavaFX Application Thread] EmailApp:94 - Файл сохранен: src/main/resources/emails.txt
+2024-12-16 19:07:13 INFO  [JavaFX Application Thread] EmailApp:94 - Файл сохранен: src/main/resources/message.txt
+2024-12-16 19:17:58 WARN  [JavaFX Application Thread] EmailApp:111 - Не указаны email адреса или текст сообщения.

@@ -1,0 +1,75 @@
+plugins {
+    id 'application'
+    id 'java'
+    id 'org.openjfx.javafxplugin' version '0.0.13'
+}
+
+group = 'org.emails'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+javafx {
+    version = '17.0.13' // Совпадает с версиями в зависимостях
+    modules = [ 'javafx.controls', 'javafx.fxml' ]
+}
+
+dependencies {
+    // JavaFX
+    implementation 'org.openjfx:javafx-controls:17.0.13'
+    implementation 'org.openjfx:javafx-fxml:17.0.13'
+
+    // Log4j для логирования
+    implementation 'org.apache.logging.log4j:log4j-core:2.20.0'
+    implementation 'org.apache.logging.log4j:log4j-api:2.20.0'
+
+    // JavaMail для отправки email
+    implementation 'com.sun.mail:javax.mail:1.6.2'
+
+    // BouncyCastle для криптографии
+    implementation 'org.bouncycastle:bcprov-jdk15on:1.70'
+
+    // JUnit для тестирования
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0'
+}
+
+application {
+    // Указываем главный класс приложения
+    mainClass = 'org.emails.EmailApp'
+}
+
+jar {
+    // Указываем главный класс в манифесте
+    manifest {
+        attributes(
+                'Main-Class': 'org.emails.EmailApp'
+        )
+    }
+
+    // Опционально: собираем "fat JAR" (включаем зависимости в JAR файл)
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    exclude 'META-INF/*.SF', 'META-INF/*.RSA', 'META-INF/*.DSA'
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+tasks.javadoc {
+    options {
+        encoding = 'UTF-8'
+        charSet = 'UTF-8'
+        docEncoding = 'UTF-8'
+    }
+}
+
+// Тесты с использованием JUnit
+tasks.test {
+    useJUnitPlatform()
+}
